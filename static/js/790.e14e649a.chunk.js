@@ -1,0 +1,1 @@
+(self.webpackChunk_afjxdev_evm_messenger=self.webpackChunk_afjxdev_evm_messenger||[]).push([[790],{7790:()=>{}}]);
