@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/EVMMessenger/static/css/main.ac93bc93.css",
-    "main.js": "/EVMMessenger/static/js/main.fc576146.js",
+    "main.js": "/EVMMessenger/static/js/main.5de980be.js",
     "static/js/790.e14e649a.chunk.js": "/EVMMessenger/static/js/790.e14e649a.chunk.js",
     "static/js/402.d29ea347.chunk.js": "/EVMMessenger/static/js/402.d29ea347.chunk.js",
     "static/js/374.e2c9420f.chunk.js": "/EVMMessenger/static/js/374.e2c9420f.chunk.js",
     "static/js/203.d432a435.chunk.js": "/EVMMessenger/static/js/203.d432a435.chunk.js",
     "index.html": "/EVMMessenger/index.html",
     "main.ac93bc93.css.map": "/EVMMessenger/static/css/main.ac93bc93.css.map",
-    "main.fc576146.js.map": "/EVMMessenger/static/js/main.fc576146.js.map",
+    "main.5de980be.js.map": "/EVMMessenger/static/js/main.5de980be.js.map",
     "374.e2c9420f.chunk.js.map": "/EVMMessenger/static/js/374.e2c9420f.chunk.js.map",
     "203.d432a435.chunk.js.map": "/EVMMessenger/static/js/203.d432a435.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac93bc93.css",
-    "static/js/main.fc576146.js"
+    "static/js/main.5de980be.js"
   ]
 }
